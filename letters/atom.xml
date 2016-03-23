@@ -1,0 +1,28 @@
+---
+layout: feed
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>The Albatrossian Letters</title>
+	<link href="http://albatrossian.xyz/letters/atom.xml" rel="self"/>
+	<link href="http://albatrossian.xyz/letters"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>http://albatrossian.xyz/letters</id>
+	<author>
+		<name>Brunston Poon</name>
+	</author>
+
+	{% for post in site.posts %}
+	{% if post.categories contains 'letter' %}
+		<entry>
+			<title>{{ post.title }}</title>
+			<link href="http://albatrossian.xyz{{ post.url }}"/>
+			<updated>{{ post.date | date_to_xmlschema }}</updated>
+			<id>http://albatrossian.xyz/{{ post.id }}</id>
+			<content type="html">{{ post.content | xml_escape }}</content>
+		</entry>
+	{& endif %}
+	{% endfor %}
+
+</feed>
