@@ -22,7 +22,7 @@ layout: feed
 			<id>http://albatrossian.xyz/{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
-	{& endif %}
+	{% endif %}
 	{% endfor %}
 
 </feed>
