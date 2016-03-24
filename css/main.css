@@ -1,12 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:700|Lora:400,400italic,700);
 body {
+    font-family: 'Lora', serif;
     margin: 60px auto;
-    width: 70%;
+    width: 50%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Lato', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-weight: bold;
+    font-weight: 700, bold;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -20,12 +22,14 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.5em;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700, bold;
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.4em;
+    font-family: 'Lora', serif;
+    line-height: 1.6em;
     color: #333;
 }
 footer {
@@ -40,4 +44,12 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+@media print, screen and (max-width: 960px) {
+    body {
+    font-family: 'Lora', serif;
+    margin: 60px auto;
+    width: 70%;
+}
 }
