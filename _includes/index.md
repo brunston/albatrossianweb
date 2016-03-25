@@ -1,4 +1,2 @@
-<h1>The Albatrossian Notes</h1>
-<p>I write things here sometimes. These notes are the shortest. Postcards are longer, and letters even more so. Welcome.</a></p>
-<br><br>
-<p>2015.12.25: Don't spend more than a minute on minutia.</p>
+<h1>The Albatrossian - Envelope</h1>
+<p>I write things here sometimes. I've got all these ideas percolating in my head, and like with all coffee-making percolators, if the ideas stay there too long they'll become overextracted and forgotten about. This is my bid to write those down in some crisp manner. Postcards are shorter, and letters are longer. Welcome.</a></p>
