@@ -5,6 +5,9 @@ title: The Albatrossian - Thirty in Thirty
 
 thirty photos in thirty days:
 
+<img src="static/brunston_3030_day_9.jpg" alt="Thirty in Thirty, Day 9, (c) 2018 Brunston Poon" style="width:100%;"/><br>
+<sub><sup>Final Boarding Call, Hawthorne, CA, 2018.03.29. 1/950, f/4, ISO-200</sup></sub>
+
 <img src="static/brunston_3030_day_8.jpg" alt="Thirty in Thirty, Day 8, (c) 2018 Brunston Poon" style="width:100%;"/><br>
 <sub><sup>Los Angeles Freeway and Downtown LA, Los Angeles, CA, 2018.03.28. 1/60, f/8, ISO 250</sup></sub>
 
