@@ -5,7 +5,7 @@ title: The Albatrossian - Thirty in Thirty
 
 thirty photos in thirty days:
 
-<img src="static/brunston_3030_day_10.jpg" alt="Thirty in Thirty, Day 10, (c) 2018 Brunston Poon" style="width:100%;"/><br>
+<img src="static/brunston_3030_day_10.jpg" alt="Thirty in Thirty, Day 10, (c) 2018 Brunston Poon" style="height:650px;"/><br>
 <sub><sup>Forgotten, Santa Monica, CA, 2018.03.30. 1/60, f/4, ISO-640</sup></sub>
 
 <img src="static/brunston_3030_day_9.jpg" alt="Thirty in Thirty, Day 9, (c) 2018 Brunston Poon" style="width:100%;"/><br>
