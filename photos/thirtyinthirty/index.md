@@ -5,7 +5,10 @@ title: The Albatrossian - Thirty in Thirty
 
 thirty photos in thirty days:
 
-<img src="static/brunston_3030_day_10.jpg" alt="Thirty in Thirty, Day 10, (c) 2018 Brunston Poon" style="height:650px;"/><br>
+<img src="static/brunston_3030_day_11.jpg" alt="Thirty in Thirty, Day 11, (c) 2018 Brunston Poon" style="height:700px;"/><br>
+<sub><sup>Tracks, Torrance, CA, 2018.03.31. 1/320, f/8, ISO-200</sup></sub>
+
+<img src="static/brunston_3030_day_10.jpg" alt="Thirty in Thirty, Day 10, (c) 2018 Brunston Poon" style="height:700px;"/><br>
 <sub><sup>Forgotten, Santa Monica, CA, 2018.03.30. 1/60, f/4, ISO-640</sup></sub>
 
 <img src="static/brunston_3030_day_9.jpg" alt="Thirty in Thirty, Day 9, (c) 2018 Brunston Poon" style="width:100%;"/><br>
@@ -32,5 +35,5 @@ thirty photos in thirty days:
 <img src="static/brunston_3030_day_2.jpg" alt="Thirty in Thirty, Day 2, (c) 2018 Brunston Poon" style="width:100%;"/><br>
 <sub><sup>Dog! Santa Monica, CA, 2018.03.22. 1/40, f/2, ISO 1600</sup></sub>
 
-<img src="static/brunston_3030_day_1.jpg" alt="Thirty in Thirty, Day 1, (c) 2018 Brunston Poon" style="height:650px;"/><br>
+<img src="static/brunston_3030_day_1.jpg" alt="Thirty in Thirty, Day 1, (c) 2018 Brunston Poon" style="height:700px;"/><br>
 <sub><sup>Passenger, Metro Green Line, Los Angeles, 2018.03.21. 1/52, f/4, ISO 200</sup></sub>
