@@ -5,14 +5,17 @@ title: The Albatrossian - Thirty in Thirty
 
 thirty photos in thirty days:
 
+<img src="static/brunston_3030_day_12.jpg" alt="Thirty in Thirty, Day 12, (c) 2018 Brunston Poon" style="width:100%;"/><br>
+<sub><sup>White Rose, Manhattan Beach, CA, 2018.04.01. 1/950, f/2.8, ISO 200</sup></sub>
+
 <img src="static/brunston_3030_day_11.jpg" alt="Thirty in Thirty, Day 11, (c) 2018 Brunston Poon" style="height:700px;"/><br>
 <sub><sup>Tracks, Torrance, CA, 2018.03.31. 1/320, f/8, ISO-200</sup></sub>
 
 <img src="static/brunston_3030_day_10.jpg" alt="Thirty in Thirty, Day 10, (c) 2018 Brunston Poon" style="height:700px;"/><br>
-<sub><sup>Forgotten, Santa Monica, CA, 2018.03.30. 1/60, f/4, ISO-640</sup></sub>
+<sub><sup>Forgotten, Santa Monica, CA, 2018.03.30. 1/60, f/4, ISO 640</sup></sub>
 
 <img src="static/brunston_3030_day_9.jpg" alt="Thirty in Thirty, Day 9, (c) 2018 Brunston Poon" style="width:100%;"/><br>
-<sub><sup>Final Boarding Call, Hawthorne, CA, 2018.03.29. 1/950, f/4, ISO-200</sup></sub>
+<sub><sup>Final Boarding Call, Hawthorne, CA, 2018.03.29. 1/950, f/4, ISO 200</sup></sub>
 
 <img src="static/brunston_3030_day_8.jpg" alt="Thirty in Thirty, Day 8, (c) 2018 Brunston Poon" style="width:100%;"/><br>
 <sub><sup>Los Angeles Freeway and Downtown LA, Los Angeles, CA, 2018.03.28. 1/60, f/8, ISO 250</sup></sub>
