@@ -5,6 +5,9 @@ title: The Albatrossian - Thirty in Thirty
 
 thirty photos in thirty days:
 
+<img src="static/brunston_3030_day_13.jpg" alt="Thirty in Thirty, Day 13, (c) 2018 Brunston Poon" style="width:100%;"/><br>
+<sub><sup>God Rays, Torrance, CA, 2018.04.02. 1/120, f/2.8, ISO 200</sup></sub>
+
 <img src="static/brunston_3030_day_12.jpg" alt="Thirty in Thirty, Day 12, (c) 2018 Brunston Poon" style="width:100%;"/><br>
 <sub><sup>White Rose, Manhattan Beach, CA, 2018.04.01. 1/950, f/2.8, ISO 200</sup></sub>
 
