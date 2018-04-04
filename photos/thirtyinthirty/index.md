@@ -5,6 +5,9 @@ title: The Albatrossian - Thirty in Thirty
 
 thirty photos in thirty days:
 
+<img src="static/brunston_3030_day_14.jpg" alt="Thirty in Thirty, Day 14, (c) 2018 Brunston Poon" style="width:100%;"/><br>
+<sub><sup>Calm before flame, Hawthorne, CA, 2018.04.03. 1/60, f/8, ISO 640</sup></sub>
+
 <img src="static/brunston_3030_day_13.jpg" alt="Thirty in Thirty, Day 13, (c) 2018 Brunston Poon" style="width:100%;"/><br>
 <sub><sup>God Rays, Torrance, CA, 2018.04.02. 1/120, f/2.8, ISO 200</sup></sub>
 
