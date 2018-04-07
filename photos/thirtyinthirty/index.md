@@ -5,8 +5,14 @@ title: The Albatrossian - Thirty in Thirty
 
 thirty photos in thirty days:
 
+<img src="static/brunston_3030_day_17.jpg" alt="Thirty in Thirty, Day 17, (c) 2018 Brunston Poon" style="height:700px;"/><br>
+<sub><sup>Tracks at Golden Hour, Hawthorne, CA, 2018.04.06. 1/400, f/8, ISO 200</sup></sub>
+
+<img src="static/brunston_3030_day_16.jpg" alt="Thirty in Thirty, Day 16, (c) 2018 Brunston Poon" style="width:100%;"/><br>
+<sub><sup>Exhausted, Hawthorne, CA, 2018.04.05. 1/60, f/2, ISO 5000</sup></sub>
+
 <img src="static/brunston_3030_day_15.jpg" alt="Thirty in Thirty, Day 15, (c) 2018 Brunston Poon" style="width:100%;"/><br>
-<sub><sup>Joining the Amateur Radio Service, Hawthorne, CA, 2018.04.04. 1/60, f/2.8, ISO 640</sup></sub>
+<sub><sup>Joining the Amateur Radio Service, Torrance, CA, 2018.04.04. 1/60, f/2.8, ISO 640</sup></sub>
 
 <img src="static/brunston_3030_day_14.jpg" alt="Thirty in Thirty, Day 14, (c) 2018 Brunston Poon" style="width:100%;"/><br>
 <sub><sup>Calm before flame, Hawthorne, CA, 2018.04.03. 1/60, f/8, ISO 640</sup></sub>
