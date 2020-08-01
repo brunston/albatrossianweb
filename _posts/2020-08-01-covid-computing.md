@@ -5,7 +5,7 @@ category: letter
 date: 2020-08-01
 ---
 
-# Cheap Reliable Computers during COVID-19
+# Accessibility to Cheap Computing during COVID-19
 
 **Scroll down if you just want to see the recommendations.**
 
